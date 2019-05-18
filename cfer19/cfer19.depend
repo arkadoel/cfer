@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1558202035 source:/home/developer/REPOS/cfer/cfer19/cfer19.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<map>
+
+1558197751 source:/home/developer/REPOS/cfer/cfer19/example1.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<map>
+
+1558200615 source:/home/developer/REPOS/cfer/cfer19/main.cpp
+	"cfer19.cpp"
+
+1558200738 /home/developer/REPOS/cfer/cfer19/cfer19.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<map>
+
