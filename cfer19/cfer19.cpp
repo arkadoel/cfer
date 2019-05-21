@@ -14,9 +14,12 @@ using namespace std;
 #define end }
 #define butif }else if
 #define is ==
+#define using using namespace
+#define __ ::
 
-
+#define Main main
 #define pchar char *
+
 
 
 namespace cfer_Console{
@@ -61,5 +64,19 @@ namespace cfer_Console{
             letter = str.at(0);
         }
         return letter;
+    }
+};
+
+namespace cfer_Convert{
+    inline string ToString(char characteres[]){
+        string keys ;
+        keys+= characteres;
+        return keys;
+    }
+
+    static string ToString(int number){
+        string keys ;
+        keys+= number;
+        return keys;
     }
 };
